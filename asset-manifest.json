@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FortuneTelling/static/css/main.c7c57d13.css",
+    "main.js": "/FortuneTelling/static/js/main.61d9023a.js",
+    "index.html": "/FortuneTelling/index.html",
+    "main.c7c57d13.css.map": "/FortuneTelling/static/css/main.c7c57d13.css.map",
+    "main.61d9023a.js.map": "/FortuneTelling/static/js/main.61d9023a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c57d13.css",
+    "static/js/main.61d9023a.js"
+  ]
+}
