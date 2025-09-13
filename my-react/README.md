@@ -13,4 +13,4 @@ Reactで作成したシンプルな占いアプリです。
 - 占い結果の表示（大吉・中吉・小吉 など）
 
 ## デプロイ先
-[アプリを見る](https://makoto.github.io/fortune-app/)
+[アプリを見る](https://mato1494.github.io/FortuneTelling/)
