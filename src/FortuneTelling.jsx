@@ -11,7 +11,7 @@ export default function FortuneTelling() {
 
     const fortuneClick = () => {
         if (!clicked) {
-            const number = Math.floor(Math.random() * 100 + 1);
+            const number = Math.floor(Math.random() * 100 + 1); 
             
             let fortune = '';
             if (number > 90) {
